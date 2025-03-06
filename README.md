@@ -1,0 +1,1 @@
+# GNN_self-study_note
